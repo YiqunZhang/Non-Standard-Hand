@@ -1,0 +1,11 @@
+torch==2.0.1
+diffusers==0.21.1
+gradio==3.48.0
+mediapipe==0.10.5
+numpy==1.26.1
+opencv_contrib_python==4.8.0.76
+opencv_python==4.8.0.76
+Pillow==10.1.0
+ultralytics==8.0.180
+accelerate==0.23.0
+transformers==4.33.2
